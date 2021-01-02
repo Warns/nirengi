@@ -25,5 +25,5 @@ jobs:
           ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
 #           local_path: './build/*'
           local_path: './*'
-          remote_path: '/var/www/react-app'
+          remote_path: '/var/www/html.old/'
           args: '-o ConnectTimeout=5'
