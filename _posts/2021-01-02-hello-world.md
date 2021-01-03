@@ -4,8 +4,7 @@ post_title: Hello world!
 author: nirengi
 post_excerpt: ""
 layout: post
-permalink: >
-  https://nirengi-dev.alaa.works/2021/01/02/hello-world/
+permalink: https://nirengi-dev.alaa.works/?p=1
 published: true
 post_date: 2021-01-02 08:42:26
 ---

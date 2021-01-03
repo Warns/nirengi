@@ -5,7 +5,7 @@ author: nirengi
 post_excerpt: ""
 layout: page
 permalink: >
-  https://nirengi-dev.alaa.works/omega-search/
+  https://nirengi-dev.alaa.works/?page_id=20
 published: true
 post_date: 2021-01-03 10:48:58
 ---

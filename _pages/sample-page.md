@@ -5,7 +5,7 @@ author: nirengi
 post_excerpt: ""
 layout: page
 permalink: >
-  https://nirengi-dev.alaa.works/sample-page/
+  https://nirengi-dev.alaa.works/?page_id=2
 published: true
 post_date: 2021-01-02 08:42:26
 ---
