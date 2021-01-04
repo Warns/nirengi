@@ -1,7 +1,7 @@
 ---
 ID: 1
 post_title: Hello world!
-author: nirengi
+author: Ramazan Demir
 post_excerpt: ""
 layout: post
 permalink: https://nirengi-dev.alaa.works/?p=1
