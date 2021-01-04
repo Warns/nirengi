@@ -1,0 +1,30 @@
+---
+ID: 42
+post_title: Hafz Üzerine
+author: nirengi
+post_excerpt: ""
+layout: post
+permalink: https://nirengi-dev.alaa.works/?p=42
+published: true
+post_date: 2021-01-04 10:43:11
+---
+<p>30 EYLÜL DERS NOTLARI-02</p>
+<p>[aya n=82:19]</p>
+<p>O gün, kimsenin kimse için bir şey yapamayacağı gündür. O gün bütün yetki Allah’ındır. — SV meali</p>
+<p>hemen hemen tüm meallerde ayete yukarıdaki meale yakın şekilde anlam verilmesi gramerdeki bir inceliği yok etmektedir. Hiç bir kural tanımadan her fırsatta HAZF kullananan meal yazarları, ayette açık bir şekilde HAZF olmasına rağmen yok saymışlardır, ayette geçen وْ ِكم َم) ََْYEVMEİZİN) bu kelime aslında YEVM kelimesi ve İZ edatından oluşmuştur...özellikle İZ edatının böyle kullanılması cümlede bir HAZF olmasına delildir saklamak, düşürmek anlamına gelen HAZF arapçada anlama katkı yapmak ve sözü gereksiz kalabalıktan kurtarmak içindir. Herhangi bir keliminin düşürülmesi durumunda eğer cümlenin
+anlamında bir kapalılık, karışıklık, ya da ihtilaf meydana geliyorsa orada HAZF yapmak caiz değildir Çünkü söz söylemek, bir anlamın karşıdakine karışıklığa meydan vermeden aktarmak demektir, eğer muhatap cümleden düşürülen kelimeler yüzünden anlama zorluğu yaşarsa orada hazf yapılmaz Hazf, rasgele, kuralsız bir şekilde yapılamayacağı gibi, cümlede HAZF olduğuna dair, düşürülen
+kelimelerden sonra geri kalan cümlede mutlaka bir işaret bırakılması gerekmektedir. Yukarıdaki ayette örneğini verdiğimiz وِمْك َم ََْkelimesinin bu yapısıda ya bir cümlenin ya da bir kelimenin HAZF edildiğine delil olsun diye bu kalıpta gelmiştir. Fakat her fırsatta olmayacak yerlerde HAZF var deyip
+kelime ekleyen meal yazarları, AÇIK HAZFİN olduğu bu kelimedeki hazfi hiç görmemişlerdir.</p>
+<p>Burada bir HAZF olduğu açıktır ama HAZF edilen (cümleden düşürülen) kelimenin ne olduğunu nasıl tespit edeceğiz??? GENELDE hazf edilen kelime yada cümle, cümlede zaten var olan fiil yada isim cinsinden bir kelimedir.</p>
+<p>ayete tekrar bakalım...
+[aya n=82:19]</p>
+<p>O gün, kimsenin kimse için bir şey yapamayacağı gündür. O gün bütün yetki Allah’ındır.
+ayete dikkat edilirse ayette sadece bir tane fiil vardır ve o fiilde olumsuz yapıdadır ا َمْ َكلَُ ْ
+İşte ikinci cümlede وِمْك َم ََْşeklinde gelen bu kelime, ikinci cümlede de bu fiilin kullanıldığını ama
+tekrara düşeceğinden ve açıktan söylenmesine ihtiyaç olmadığından hazf edilmiştir, bunu yapmayan
+yukarıdaki meal yazarları ve diğer meal yazarları hiç olmayacak şekilde ayette geçen ا َكْ
+ْاَ
+kelimesineَ مر</p>
+<p>YETKİ anlamı vererek hem anlam verdikleri kelimeyi tahrif etmiş hem de HAZF edilen kelimeyi yok saymışlardır oysa ayete doğru mana verilseydi (nokta ve harekeleri doğru kabul edersek) ayetin ikinci cümlesine verilmesi gereken anlam...O GÜN O İŞLER ALLAHINDIR İŞTE, hazf çalıştırılmadığında ve hazf edilen kelime(ayette açıkça hazfa işaret olmasına rağmen) açığa çıkarılmadığında görüldüğü gibi anlamsız bir cümle çıkmaktadır, ayetteki HAZF edilen kelime açığa
+çıkarıldığında ise anlam (yine nokta ve harekeleri doğru varsayarak)....O ZAMAN TEK GEÇERLİ BUYURMA YETKİSİ ALLAHINDIR...AYETin başında olumsuz olarak geçen LA TEMLİKU kelimesi ikici cümlede olumlu olarak gelecektir, çünkü ayetin başı ...O GÜN HERHANGİ BİR NEFİS BAŞKA HERHANGİ BİR NEFİS İÇİN MEŞRU BİR YETKİ KULLANAMAYACAK...demektedir. bu ayette HAZF olduğuna dair gramer delili olmasına rağmen hazfi kullanmayan aynı meal yazarları aşağıdaki ayette tam tersini yapmışlardır.</p>
+<p>[aya n=11:1]</p>
