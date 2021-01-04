@@ -16,5 +16,6 @@ post_date: 2021-01-02 08:42:26
 <p>[aya n=2:20]</p>
 <p>this is another ayah</p>
 <p>[aya n=4:5]</p>
+<p><a href="https://nirengi-dev.alaa.works/?attachment_id=19"><img src="https://nirengi-dev.alaa.works/wp-content/uploads/2021/01/fiveyears-1-1024x494.jpg" alt="" /></a></p>
 <p>[aya n=1:3]</p>
 <p>sddkfhs jkhkh</p>
