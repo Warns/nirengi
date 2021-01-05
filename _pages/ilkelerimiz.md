@@ -1,6 +1,6 @@
 ---
 ID: 2
-post_title: Sample Page
+post_title: İlkelerimiz
 author: nirengi
 post_excerpt: ""
 layout: page
