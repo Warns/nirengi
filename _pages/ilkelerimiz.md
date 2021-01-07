@@ -9,22 +9,20 @@ permalink: >
 published: true
 post_date: 2021-01-02 08:42:26
 ---
-<!-- wp:paragraph -->
-<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>...or something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="http://nirengi-dev.alaa.works/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
-<!-- /wp:paragraph -->
+<ol>
+<li>
+<p>Bizim söylediklerimizin hiç biri Kur'an değildir sadece bizim Kur'an'dan anladıklarımızdır. Kesinlikle tartışmaya açıktır asla hiç kimse için değişmez &quot;nas&quot; değildir.</p>
+</li>
+<li>
+<p>Bizim dediklerimiz elbette Kur'an değildir ama çerçevesi olmayan, herhangi bir şekilde izi sürülemeyen, herhangi bir emek sarfedilmeden, çalışılmadan ortaya konulan rasgele şeyler de değildir. Söylediğimiz her şeyle ilgili delil istenmesi herkesin hakkıdır ve biz de o delilleri koymak zorundayız.</p>
+</li>
+<li>
+<p>Bizim söylediğimiz şeylerin hiçbiri mevcut dini anlayışı restore eden, kısmi düzeltmeler yapan, onu iyileştiren şeyler değildir. Söylediğimiz her şey ilk başta LA temeli üzerine oturtulmuştur. Bu temel sadece inanılacak şeylerle alakalı değil, öğrenilecek herşeyle alakalıdır. Bir şeyin ne olduğunu söylemeden önce, o şeyin neden diğerleri olmadığını söylemek temel prensibimizdir.</p>
+</li>
+<li>
+<p>Temeline LA prensibini koyduğumuz bu metot bu yüzden zahmetli ve sancılı bir metottur. Çünkü biz herşeyden önce öğrenmek istediğimiz şeyle alakalı bütün kombinasyonlara, bütün söylenmişlere, bütün alternatiflere bakıyor, daha sonra neden onun o olamayacağını delillendiriyor, delillendirdiğimiz şeyin KUR'AN öğretisinin herhangi bir yeriyle uyumsuzluğu ve tenakuzu var mı yok mu onu kontrol ediyor (tabi ki gücümüz nispetinde) ondan sonra LA diyoruz.</p>
+</li>
+<li>
+<p>Bu yüzden bugüne kadar bu metodu izleyerek vardığımız sonuçların hepsi, gelenekselinden, radikaline, Kur'an'cısından, tarikatçısına, ondokuzcusundan tarihselcisine, evrenselcisinden bilimcisine vs kadar tüm dini anlayışlarla asla UYUŞMAMAKTA, BU DİN ANLAYIŞLARIYLA TABAN TABANA ZITLAŞMAKTADIR.</p>
+</li>
+</ol>
