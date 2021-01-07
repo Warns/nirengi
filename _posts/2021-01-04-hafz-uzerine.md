@@ -1,7 +1,7 @@
 ---
 ID: 42
 post_title: Hafz Üzerine
-author: nirengi
+author: Ramazan Demir
 post_excerpt: ""
 layout: post
 permalink: https://nirengi-dev.alaa.works/?p=42
