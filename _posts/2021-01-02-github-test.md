@@ -1,7 +1,7 @@
 ---
 ID: 12
 post_title: github test
-author: nirengi
+author: Ramazan Demir
 post_excerpt: ""
 layout: post
 permalink: https://nirengi-dev.alaa.works/?p=12
