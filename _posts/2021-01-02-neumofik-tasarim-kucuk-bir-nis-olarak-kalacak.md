@@ -1,8 +1,8 @@
 ---
 ID: 1
 post_title: >
-  Neumophorfic design will remain a small
-  niche
+  Neumofik tasarım küçük bir niş
+  olarak kalacak
 author: Ramazan Demir
 post_excerpt: ""
 layout: post
