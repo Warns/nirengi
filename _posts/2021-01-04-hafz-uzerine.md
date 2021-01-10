@@ -4,7 +4,8 @@ post_title: Hafz Üzerine
 author: Ramazan Demir
 post_excerpt: ""
 layout: post
-permalink: https://nirengi-dev.alaa.works/?p=42
+permalink: >
+  https://nirengi-dev.alaa.works/konular/hafz-uzerine/
 published: true
 post_date: 2021-01-04 10:43:11
 ---
