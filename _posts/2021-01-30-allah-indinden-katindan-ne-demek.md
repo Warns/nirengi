@@ -5,7 +5,7 @@ author: Ramazan Demir
 post_excerpt: ""
 layout: post
 permalink: >
-  https://nirengi-dev.alaa.works/uncategorized-tr/allah-indinden-katindan-ne-demek/
+  https://nirengi-dev.alaa.works/konular/allah-indinden-katindan-ne-demek/
 published: true
 post_date: 2021-01-30 14:31:00
 ---
