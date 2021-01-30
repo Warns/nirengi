@@ -3,7 +3,7 @@ ID: 120
 post_title: >
   İNSAN GELİŞİR-DEĞİŞİR, ÂYET NE
   GELİŞİR-NE DEĞİŞİR!
-author: nirengi
+author: Ramazan Demir
 post_excerpt: ""
 layout: post
 permalink: >
