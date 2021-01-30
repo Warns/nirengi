@@ -7,7 +7,7 @@ author: Ramazan Demir
 post_excerpt: ""
 layout: post
 permalink: >
-  https://nirengi-dev.alaa.works/uncategorized-tr/emr-kelimesi-ve-esitlerin-iliskisi/
+  https://nirengi-dev.alaa.works/konular/emr-kelimesi-ve-esitlerin-iliskisi/
 published: true
 post_date: 2021-01-30 14:14:32
 ---
