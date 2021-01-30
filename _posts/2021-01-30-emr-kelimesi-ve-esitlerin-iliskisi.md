@@ -3,7 +3,7 @@ ID: 114
 post_title: >
   ‘EMR’ KELİMESİ ve
   ‘EŞİTLERİN’ İLİŞKİSİ
-author: nirengi
+author: Ramazan Demir
 post_excerpt: ""
 layout: post
 permalink: >
